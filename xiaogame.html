@@ -4,9 +4,21 @@
     <meta charset="utf-8" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
-    <link rel="manifest" href="manifest.json">
     <title>HEAVEN'S PILLAR</title>
     <style>
+
+@media screen and (min-width: 100vh) and (orientation: portrait) {
+  html {
+    transform: rotate(-90deg);
+    transform-origin: left top;
+    width: 100vh;
+    height: 100vw;
+    overflow-x: hidden;
+    position: absolute;
+    top: 100%;
+    left: 0;
+  }
+}
       @-webkit-keyframes rotation {
         from {
           -webkit-transform: rotate(0deg);
