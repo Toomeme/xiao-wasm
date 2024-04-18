@@ -408,9 +408,9 @@
 
         let viewStatus = GM_get_view_status();
         if (viewStatus.landscape === true && viewStatus.portrait === false) {
-          window.oprt.lockLandscapeOrientation();
+          window.oprt.lockPortraitOrientation();
         } else if (viewStatus.landscape === false && viewStatus.portrait === true) {
-          window.oprt.lockLandscapeOrientation();
+          window.oprt.lockPortraitOrientation();
         }
       }
 
