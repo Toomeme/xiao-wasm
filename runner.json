@@ -7,11 +7,11 @@
 "xiaogame.html",
 "xiaogame.js",
 "xiaogame.wasm" ], "manifestFilesMD5" : [ "b3b5b3c545c739d55c7aa134effc1c03",
-"55e4566f5c427cd7ac0ae9ddf1eb9573",
+"9a8fa1e1ada369e4441dafdd464024c6",
 "fb6c9df432778b270f0afbd626d94c01",
 "4d5385d291965449e79f5b1ee2d39c0f",
 "415c5edd9ee39cfbe11006b37de3dd83",
-"bbd42fbf88a3a80694eb510b3a904b12",
+"b306395c7e7c583ecf4fc77b2fc25e3b",
 "af18355101b19a6b8ed7eb8fa877c530",
-"e2f88a140fcdfda9a48b5aa1f7498adb",
-"307b979d48e75ddec1c69b9efedc7a26" ], "mainJS" : "xiaogame.js",  "unx": "game.unx", "index": "index.html", "runner": {"version": "2024.2.0.163", "yyc": true}}
+"ffb5b3d611855744cb8766ef88d86222",
+"258908b975065c62ae22e70a4c3bd3d7" ], "mainJS" : "xiaogame.js",  "unx": "game.unx", "index": "index.html", "runner": {"version": "2024.2.0.163", "yyc": true}}
